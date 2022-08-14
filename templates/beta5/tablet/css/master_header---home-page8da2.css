@@ -1,0 +1,683 @@
+#u6838.PamphletThumbSelected,#u6840.PamphletThumbSelected,#u6837.PamphletThumbSelected,#u6836.PamphletThumbSelected,#u6839.PamphletThumbSelected,#u6835.PamphletThumbSelected
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u6716
+{
+	background-color: #1DD1C5;
+}
+
+#u6719-5
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6719-2
+{
+	font-family: '__Ionicons_5';
+	font-weight: 500;
+}
+
+#u6718-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 24px;
+	line-height: 29px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6731
+{
+	border-style: none;
+	position: relative;
+	background: transparent url("../../images/flag-brazil.png") no-repeat left center;
+}
+
+#u6733-4
+{
+	border-style: none;
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6731:hover #u6733-4 p
+{
+	text-decoration: underline;
+}
+
+#u6722
+{
+	border-style: none;
+	position: relative;
+	background: transparent url("../../images/flag-england.png") no-repeat left center;
+}
+
+#u6731.MuseMenuActive,#u6722.MuseMenuActive
+{
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+
+#u6723-4
+{
+	border-style: none;
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6722:hover #u6723-4 p
+{
+	text-decoration: underline;
+}
+
+#u6731.MuseMenuActive #u6733-4 p,#u6722.MuseMenuActive #u6723-4 p
+{
+	text-decoration: none;
+}
+
+#u6717,#u6830
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6831-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: right;
+	line-height: 22px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6853-4,#u6845-4,#u6849-4,#u6847-4,#u6851-4,#u6855-4
+{
+	background-color: transparent;
+	text-transform: none;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#pamphletu6832,#u6834
+{
+	position: relative;
+}
+
+#u6843,#u6835,#u6836,#u6838,#u6839,#u6840,#u6837
+{
+	position: absolute;
+	border-style: none;
+	background-color: transparent;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u6828
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u6766
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u6766:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u6768-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	font-size: 14px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6766:hover #u6768-4
+{
+	background-color: transparent;
+}
+
+#u6766:active #u6768-4
+{
+	background-color: transparent;
+}
+
+#u6766:hover #u6768-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6766:active #u6768-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6787
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u6787:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u6790-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6766.MuseMenuActive #u6768-4,#u6787:hover #u6790-4
+{
+	background-color: transparent;
+}
+
+#u6787:active #u6790-4
+{
+	background-color: transparent;
+}
+
+#u6787:hover #u6790-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6787:active #u6790-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6791
+{
+	border-style: none;
+	background-color: transparent;
+}
+
+#u6792
+{
+	border-style: solid;
+	border-color: #1DD1C5;
+	background-color: #FFFFFF;
+	position: relative;
+	border-width: 3px 0px 0px;
+}
+
+#menuu6720,#u6728,#u6721,#u6852,#u6844,#u6848,#u6846,#u6850,#u6854,#menuu6757,#u6765,#u6786,#u6793,#u6794
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6796-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6794:hover #u6796-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6807,#u6808
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6811-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6808:hover #u6811-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6800,#u6803
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6804-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6803:hover #u6804-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6782
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u6782:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u6784-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6787.MuseMenuActive #u6790-4,#u6782:hover #u6784-4
+{
+	background-color: transparent;
+}
+
+#u6782:active #u6784-4
+{
+	background-color: transparent;
+}
+
+#u6782:hover #u6784-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6782:active #u6784-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6817
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u6817:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u6819-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6782.MuseMenuActive #u6784-4,#u6817:hover #u6819-4
+{
+	background-color: transparent;
+}
+
+#u6817:active #u6819-4
+{
+	background-color: transparent;
+}
+
+#u6817:hover #u6819-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6817:active #u6819-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6759
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u6759:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u6761-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6817.MuseMenuActive #u6819-4,#u6759:hover #u6761-4
+{
+	background-color: transparent;
+}
+
+#u6759:active #u6761-4
+{
+	background-color: transparent;
+}
+
+#u6759:hover #u6761-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6759:active #u6761-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6773
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u6773:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u6776-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6759.MuseMenuActive #u6761-4,#u6773:hover #u6776-4
+{
+	background-color: transparent;
+}
+
+#u6773:active #u6776-4
+{
+	background-color: transparent;
+}
+
+#u6773:hover #u6776-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6773:active #u6776-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6824
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u6824:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u6766.MuseMenuActive,#u6787.MuseMenuActive,#u6782.MuseMenuActive,#u6817.MuseMenuActive,#u6759.MuseMenuActive,#u6773.MuseMenuActive,#u6824.MuseMenuActive
+{
+	border-color: #FFFFFF;
+}
+
+#u6825-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u6824:hover #u6825-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u6766.MuseMenuActive #u6768-4 p,#u6787.MuseMenuActive #u6790-4 p,#u6794.MuseMenuActive #u6796-4 p,#u6808.MuseMenuActive #u6811-4 p,#u6803.MuseMenuActive #u6804-4 p,#u6782.MuseMenuActive #u6784-4 p,#u6817.MuseMenuActive #u6819-4 p,#u6759.MuseMenuActive #u6761-4 p,#u6773.MuseMenuActive #u6776-4 p,#u6824.MuseMenuActive #u6825-4 p
+{
+	color: #4D4E54;
+	visibility: inherit;
+}
+
+#u6779,#u6814,#u6758,#u6772,#u6821,#menuu6735,#u6743,#u6744
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6744:hover
+{
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+}
+
+#u6747-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #1DD1C5;
+	font-size: 21px;
+	text-align: center;
+	line-height: 25px;
+	font-family: '__Ionicons_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u6773.MuseMenuActive #u6776-4,#u6744:hover #u6747-4
+{
+	background-color: transparent;
+}
+
+#u6744:active #u6747-4
+{
+	background-color: transparent;
+}
+
+#u6750,#u6751
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6751:hover
+{
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+}
+
+#u6753-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #1DD1C5;
+	font-size: 21px;
+	text-align: center;
+	line-height: 25px;
+	font-family: '__Ionicons_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u6744.MuseMenuActive #u6747-4,#u6751:hover #u6753-4
+{
+	background-color: transparent;
+}
+
+#u6751:active #u6753-4
+{
+	background-color: transparent;
+}
+
+#u6751.MuseMenuActive #u6753-4
+{
+	background-color: transparent;
+}
+
+#u6736,#u6737
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6737:hover
+{
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+}
+
+#u6744.MuseMenuActive,#u6751.MuseMenuActive,#u6737.MuseMenuActive
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u6738-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #1DD1C5;
+	font-size: 21px;
+	text-align: center;
+	line-height: 25px;
+	font-family: '__Ionicons_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u6856
+{
+	background-color: #1DD1C5;
+	position: relative;
+}
+

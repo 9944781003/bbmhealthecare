@@ -1,0 +1,683 @@
+#u729.PamphletThumbSelected,#u731.PamphletThumbSelected,#u727.PamphletThumbSelected,#u725.PamphletThumbSelected,#u714.PamphletThumbSelected,#u723.PamphletThumbSelected
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u547
+{
+	background-color: #1DD1C5;
+}
+
+#u572-5
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u572-2
+{
+	font-family: '__Ionicons_5';
+	font-weight: 500;
+}
+
+#u573-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 24px;
+	line-height: 29px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u571,#u738
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u704-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: right;
+	line-height: 22px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u720-4,#u733-4,#u734-4,#u735-4,#u736-4,#u737-4
+{
+	background-color: transparent;
+	text-transform: none;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u547_align_to_page,#pamphletu705,#u712
+{
+	position: relative;
+}
+
+#u708,#u714,#u723,#u725,#u727,#u729,#u731
+{
+	position: absolute;
+	border-style: none;
+	background-color: transparent;
+}
+
+#u579
+{
+	border-style: none;
+	position: relative;
+	background: transparent url("../images/flag-brazil.png") no-repeat left center;
+}
+
+#u582-4
+{
+	border-style: none;
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u579:hover #u582-4 p
+{
+	text-decoration: underline;
+}
+
+#u591
+{
+	border-style: none;
+	position: relative;
+	background: transparent url("../images/flag-england.png") no-repeat left center;
+}
+
+#u579.MuseMenuActive,#u591.MuseMenuActive
+{
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+
+#u592-4
+{
+	border-style: none;
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u591:hover #u592-4 p
+{
+	text-decoration: underline;
+}
+
+#u579.MuseMenuActive #u582-4 p,#u591.MuseMenuActive #u592-4 p
+{
+	text-decoration: none;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton,.MenuItem /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u698
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u637
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u637:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u640-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	font-size: 14px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u637:hover #u640-4
+{
+	background-color: transparent;
+}
+
+#u637:active #u640-4
+{
+	background-color: transparent;
+}
+
+#u637:hover #u640-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u637:active #u640-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u651
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u651:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u653-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u637.MuseMenuActive #u640-4,#u651:hover #u653-4
+{
+	background-color: transparent;
+}
+
+#u651:active #u653-4
+{
+	background-color: transparent;
+}
+
+#u651:hover #u653-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u651:active #u653-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u649
+{
+	border-style: none;
+	background-color: transparent;
+}
+
+#u650
+{
+	border-style: solid;
+	border-color: #1DD1C5;
+	background-color: #FFFFFF;
+	position: relative;
+	border-width: 3px 0px 0px;
+}
+
+#u711,#u721,#u724,#u726,#u728,#u730,#menuu575,#u576,#u590,#menuu633,#u634,#u648,#u5296,#u5297
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u5299-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u5297:hover #u5299-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u5308,#u5311
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u5312-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u5311:hover #u5312-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u5315,#u5316
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u5319-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u5316:hover #u5319-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u656
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u656:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u659-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u651.MuseMenuActive #u653-4,#u656:hover #u659-4
+{
+	background-color: transparent;
+}
+
+#u656:active #u659-4
+{
+	background-color: transparent;
+}
+
+#u656:hover #u659-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u656:active #u659-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u665
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u665:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u667-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u656.MuseMenuActive #u659-4,#u665:hover #u667-4
+{
+	background-color: transparent;
+}
+
+#u665:active #u667-4
+{
+	background-color: transparent;
+}
+
+#u665:hover #u667-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u665:active #u667-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u672
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u672:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u674-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u665.MuseMenuActive #u667-4,#u672:hover #u674-4
+{
+	background-color: transparent;
+}
+
+#u672:active #u674-4
+{
+	background-color: transparent;
+}
+
+#u672:hover #u674-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u672:active #u674-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u677
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u677:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u680-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u672.MuseMenuActive #u674-4,#u677:hover #u680-4
+{
+	background-color: transparent;
+}
+
+#u677:active #u680-4
+{
+	background-color: transparent;
+}
+
+#u677:hover #u680-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u677:active #u680-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u686
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 3px;
+}
+
+#u686:hover
+{
+	border-color: #1DD1C5;
+}
+
+#u637.MuseMenuActive,#u651.MuseMenuActive,#u656.MuseMenuActive,#u665.MuseMenuActive,#u672.MuseMenuActive,#u677.MuseMenuActive,#u686.MuseMenuActive
+{
+	border-color: #FFFFFF;
+}
+
+#u687-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #4D4E54;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u686:hover #u687-4 p
+{
+	color: #1DD1C5;
+	visibility: inherit;
+}
+
+#u637.MuseMenuActive #u640-4 p,#u651.MuseMenuActive #u653-4 p,#u5297.MuseMenuActive #u5299-4 p,#u5311.MuseMenuActive #u5312-4 p,#u5316.MuseMenuActive #u5319-4 p,#u656.MuseMenuActive #u659-4 p,#u665.MuseMenuActive #u667-4 p,#u672.MuseMenuActive #u674-4 p,#u677.MuseMenuActive #u680-4 p,#u686.MuseMenuActive #u687-4 p
+{
+	color: #4D4E54;
+	visibility: inherit;
+}
+
+#u655,#u662,#u669,#u676,#u683,#menuu611,#u619,#u622
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u622:hover
+{
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+}
+
+#u625-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #1DD1C5;
+	font-size: 21px;
+	text-align: center;
+	line-height: 25px;
+	font-family: '__Ionicons_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u677.MuseMenuActive #u680-4,#u622:hover #u625-4
+{
+	background-color: transparent;
+}
+
+#u622:active #u625-4
+{
+	background-color: transparent;
+}
+
+#u626,#u627
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u627:hover
+{
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+}
+
+#u630-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #1DD1C5;
+	font-size: 21px;
+	text-align: center;
+	line-height: 25px;
+	font-family: '__Ionicons_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u622.MuseMenuActive #u625-4,#u627:hover #u630-4
+{
+	background-color: transparent;
+}
+
+#u627:active #u630-4
+{
+	background-color: transparent;
+}
+
+#u627.MuseMenuActive #u630-4
+{
+	background-color: transparent;
+}
+
+#u612,#u613
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u613:hover
+{
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+}
+
+#u622.MuseMenuActive,#u627.MuseMenuActive,#u613.MuseMenuActive
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u614-4
+{
+	border-style: none;
+	background-color: transparent;
+	color: #1DD1C5;
+	font-size: 21px;
+	text-align: center;
+	line-height: 25px;
+	font-family: '__Ionicons_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u739
+{
+	background-color: #1DD1C5;
+	position: relative;
+}
+

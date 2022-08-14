@@ -1,0 +1,39 @@
+﻿/*Muse elements transitions*/
+a,
+p,
+nav p,
+nav .MenuItem,
+nav .MenuItemWithSubMenu,
+.SSSlideLink,
+.PamphletNextButton,
+.PamphletPrevButton,
+.PamphletCloseButton,
+.popup_element,
+.SSPreviousButton,
+.SSNextButton,
+.popup_element > .clip_frame,
+.Button > .clip_frame,
+.AccordionPanelTab {
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+/*User Transition*/
+
+.circle,
+.icon-thumb,
+.title-thumb,
+.doctors,
+.exp-doctors,
+.name-doctors {
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+.icon-specialities {
+    border-right-style: dotted !important;
+}

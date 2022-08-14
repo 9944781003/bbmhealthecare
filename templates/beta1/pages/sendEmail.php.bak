@@ -1,0 +1,14 @@
+<?php
+if(isset($_POST["submit"])){
+	$name=$_POST["name"];
+	$email=$_POST["email"];	$phone=$_POST["phone"];	$to      = 'boomingbiomedicals@gmail.com';
+$subject = 'Message from web user';
+$message=$_POST["message"];
+$headers = 'From: '.$email.' . "\r\n" .
+    'Reply-To: webmaster@example.com' . "\r\n" .
+    'X-Mailer: PHP/' . phpversion();
+
+
+mail($to, $subject, $message, $headers);
+}
+?> 
