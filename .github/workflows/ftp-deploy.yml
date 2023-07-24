@@ -19,4 +19,4 @@ jobs:
           username: arul@touchsky.in
           password: Coderclub@123$
           port: 21
-          server-dir: /public_html/bbmhealthcare
+          server-dir: /public_html/bbmhealthcare/
