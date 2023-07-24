@@ -500,10 +500,28 @@ h6 {
   transition: 0.5s;
   color: #fff;
   background: #1977cc;
+  /* #f1a922 */
+}
+#hero .btn-get-started-medicall {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 35px;
+  margin-top: 30px;
+  border-radius: 50px;
+  transition: 0.5s;
+  color: #fff;
+  background: #f1a922;
 }
 
 #hero .btn-get-started:hover {
   background: #3291e6;
+}
+#hero .btn-get-started-medicall:hover {
+  background: #555;
 }
 
 @media (min-width: 1024px) {
@@ -791,7 +809,7 @@ section:last-child {
 
 .about .video-box {
   background: url("../img/about.jpg") center center no-repeat;
-  background-size: cover;
+  background-size: contain;
   min-height: 500px;
 }
 

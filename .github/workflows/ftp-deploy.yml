@@ -21,3 +21,4 @@ jobs:
           port: 21
           server-dir: /public_html/bbmhealthcare/
           exclude: templates/**
+            -- .git/**
